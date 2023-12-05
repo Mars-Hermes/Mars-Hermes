@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mars-Hermes
 - 👀 I’m interested in getting a tech job in data science 
-- 🌱 I’m currently learning the python programming language
+- 🌱 I’m a python developer
 - 💞️ I’m looking to collaborate on real world projects in data science, analysis and engineering
 - 📫 How to reach me on linkedin via www.linkedin.com/in/
 markson-meshach-a7453423b
